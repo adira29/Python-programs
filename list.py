@@ -22,3 +22,5 @@ print(l1)
 l1.pop()
 print(l1)
 
+l1.remove(9)
+print(l1)
