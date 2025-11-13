@@ -99,3 +99,5 @@ s= {8,7,12,"Harry",[1,2]}
 # can't update , u cannot even have a list as an element in a set becz sets in Python require all their ele,ments to be immutable and hashable.
 
 
+
+
