@@ -29,3 +29,6 @@ f = open("myfile.txt","a")
 f.write(st)
 f.close()
 
+with open("file.txt") as f:
+   print(f.read())
+
